@@ -1,0 +1,21 @@
+Reflections on challenges faced and how they were resolved.
+
+What parts of the project did you get stuck on?
+    - Insert seemed trivial at first, but I underestimated the different cases that could come up and cause things to break. I 
+    used the method Gerdin went through in the last lecture to specify my inputs, output, and different cases that might come up to 
+    resolve the challenge.
+
+Why were you stuck?
+    - I was stuck because I was impulsive to start implementing right away rather than take a step back and think 
+    through the problem and what might come up.
+
+What information did you need to get unblocked?
+    - No outside information; I needed to walk through the problem carefully as Gerdin explained.
+
+How did you know you needed that information?
+    - I was jumping too fast to implement the solution.
+
+How did you find that information?
+    - I looked back through the lecture video.
+
+

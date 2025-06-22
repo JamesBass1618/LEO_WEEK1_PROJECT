@@ -1,0 +1,34 @@
+__init__
+    - intialize ArrayList with a current index and load loadFactor
+    - use null as placeholder for initial slots
+
+add
+    - check if already reached capacity, increase index and add element to end
+
+insert
+    - check invalid cases
+    - resize if needed
+    - insert element and move elements to the right 
+
+get
+    - check edge cases that are invalid
+    - return at specific index
+
+remove
+    - check edge cases that are invalid
+    - shift everything to the left
+
+size
+    - use curIndex to derive total number of elements in ArrayList  
+
+is_empty
+    - use curIndex to see if array is empty
+
+_resize
+    - double array length and add elements back
+
+print
+    - print the array
+
+
+
